@@ -1,2 +1,2 @@
 # sqlite
-python-sqlite functions
+python sqlite functions
